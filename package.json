@@ -1,0 +1,9 @@
+{
+  "name": "ripplejs-model",
+  "description": "A model for managing UI state with the ability to watch for changes",
+  "version": "0.4.0",
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "ripplejs-path-observer": "git://github.com/npmcomponent/ripplejs-path-observer.git"
+  }
+}
